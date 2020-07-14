@@ -2,13 +2,13 @@
 
 <img src="https://github.com/darkaxl/darkaxl/blob/master/header4github.png" alt="banner of rootzilopochtli.com">
 
-I am an enthusiast OpenSource, SysAdmin lifelong  (Old School), venturing into the use of sharing ideas and projects through this platform.
+I am an OpenSource enthusiast, SysAdmin lifelong  (Old School), venturing into the use of sharing ideas and projects through this platform.
 
 _Geek by nature, Linux by choice, Fedora of course ..._
 
 #### Find me around the web 🌎:
 
-- Twitter: [@dark_axl]((https://twitter.com/dark_axl)
+- Twitter: [@dark_axl](https://twitter.com/dark_axl)
 - Blog: [rootzilopochtli.com](http://www.rootzilopochtli.com/)
 - Linkedin: [Alex Callejas](https://www.linkedin.com/in/alexcallejas/)
 - Slides: [Fedora People](https://darkaxl017.fedorapeople.org/slides/)
