@@ -12,7 +12,7 @@ _Geek by nature, Linux by choice, Fedora of course ..._
 - Blog: [rootzilopochtli.com](http://www.rootzilopochtli.com/)
 - Linkedin: [Alex Callejas](https://www.linkedin.com/in/alexcallejas/)
 - Slides: [Fedora People](https://darkaxl017.fedorapeople.org/slides/)
-- Articles: [opensource.com](https://opensource.com/users/darkaxl) [Enable Sysadmin](https://www.redhat.com/sysadmin/users/darkaxl) [Red Hat Blog](https://www.redhat.com/en/authors/alex-callejas)
+- Articles: [opensource.com](https://opensource.com/users/darkaxl) | [Enable Sysadmin](https://www.redhat.com/sysadmin/users/darkaxl) | [Red Hat Blog](https://www.redhat.com/en/authors/alex-callejas)
 
 <!--
 **darkaxl/darkaxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
