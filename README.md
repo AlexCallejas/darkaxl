@@ -10,6 +10,7 @@ _Geek by nature, Linux by choice, Fedora of course ..._
 
 - Twitter: [@dark_axl](https://twitter.com/dark_axl)
 - Blog: [rootzilopochtli.com](http://www.rootzilopochtli.com/)
+- YouTube: [rootzilopochtli](https://www.youtube.com/channel/UC3LxXGofMGXM53qjEnS18ag)
 - Linkedin: [Alex Callejas](https://www.linkedin.com/in/alexcallejas/)
 - Slides: [Fedora People](https://darkaxl017.fedorapeople.org/slides/)
 - Articles: [opensource.com](https://opensource.com/users/darkaxl) | [Enable Sysadmin](https://www.redhat.com/sysadmin/users/darkaxl) | [Red Hat Blog](https://www.redhat.com/en/authors/alex-callejas)
