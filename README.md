@@ -9,7 +9,7 @@ _Geek by nature, Linux by choice, Fedora of course ..._
 #### Find me around the web 🌎:
 
 - Twitter: [@dark_axl](https://twitter.com/dark_axl)
-- rootzilopochtli: [Blog](http://www.rootzilopochtli.com/) | [Twitter](https://twitter.com/rootzilopochtli) | [Facebook](https://www.facebook.com/rootzilopochtli)| [YouTube](https://www.youtube.com/channel/UC3LxXGofMGXM53qjEnS18ag) | [Instagram](https://www.instagram.com/rootzilopochtli/) | [TikTok](https://www.tiktok.com/@rootzilopochtli?)
+- rootzilopochtli: [Blog](http://www.rootzilopochtli.com/) | [Twitter](https://twitter.com/rootzilopochtli) | [Facebook](https://www.facebook.com/rootzilopochtli) | [YouTube](https://www.youtube.com/channel/UC3LxXGofMGXM53qjEnS18ag) | [Instagram](https://www.instagram.com/rootzilopochtli/) | [TikTok](https://www.tiktok.com/@rootzilopochtli?)
 - Linkedin: [Alex Callejas](https://www.linkedin.com/in/alexcallejas/)
 - Slides: [Fedora People](https://darkaxl017.fedorapeople.org/slides/)
 - Articles: [opensource.com](https://opensource.com/users/darkaxl) | [Enable Sysadmin](https://www.redhat.com/sysadmin/users/darkaxl) | [Red Hat Blog](https://www.redhat.com/en/authors/alex-callejas)
